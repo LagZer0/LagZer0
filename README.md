@@ -17,4 +17,5 @@ Me especializo en una variedad de tecnologías que abarcan el espectro del desar
 
 Estas tecnologías me permiten crear experiencias web interactivas y dinámicas que cautivan a los usuarios y hacen que vuelvan por más. Cada proyecto es una oportunidad para explorar nuevas herramientas y técnicas, ampliando constantemente mi conjunto de habilidades y conocimientos.
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a [nuevas oportunidades](https://www.linkedin.com/in/luisantoniogiaccio/) y colaboraciones emocionantes.
+
+## ¡Gracias por visitar mi perfil! Siempre estoy abierto a [nuevas oportunidades](https://www.linkedin.com/in/luisantoniogiaccio/) y colaboraciones emocionantes.
