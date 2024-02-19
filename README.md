@@ -12,13 +12,21 @@
 ## - 📫 Como contactarme 
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luisantoniogiaccio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisantoniogiaccio/" height="30" width="40" /></a>  <a href="luisantoniogiaccio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="mi Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luisantoniogiaccio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisantoniogiaccio/" height="30" width="40" /></a>  <a href="mailto:luisantoniogiaccio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="mi Email" height="30" width="40" /></a>
 </p>
 
 
 
 ## - 🧩¿Qué tecnologías uso?
-- **Me especializo en una variedad de tecnologías que abarcan el espectro del desarrollo FullStack, con un enfoque especial en el desarrollo Front-End. Mis habilidades incluyen: JavaScript (JS) Node.js React React-Toolkit Python Estas tecnologías me permiten crear experiencias web interactivas y dinámicas que cautivan a los usuarios y hacen que vuelvan por más. Cada proyecto es una oportunidad para explorar nuevas herramientas y técnicas, ampliando constantemente mi conjunto de habilidades y conocimientos.**
+**Me especializo en una variedad de tecnologías que abarcan el espectro del desarrollo FullStack, con un enfoque especial en el desarrollo Front-End. Mis habilidades incluyen:
+
+- JavaScript (JS)
+- Node.js
+- React
+- React-Toolkit
+- Python
+  
+  **Estas tecnologías me permiten crear experiencias web interactivas y dinámicas que cautivan a los usuarios y hacen que vuelvan por más. Cada proyecto es una oportunidad para explorar nuevas herramientas y técnicas, ampliando constantemente mi conjunto de habilidades y conocimientos.**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
