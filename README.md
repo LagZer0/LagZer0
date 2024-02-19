@@ -1,9 +1,12 @@
 <h1 align="center">Hola!👋, Mi nombre es Luis Antonio Giaccio</h1>
 <h3 align="center">Soy un apasionado Desarrollador FullStack con un enfoque especial en el desarrollo Front-End</h3>
 
-- 🤩¿A dónde me dirijo? **Mi mayor deseo es seguir creciendo tanto en el ámbito profesional como académico. La programación es un viaje interminable de aprendizaje y descubrimiento. Me maravilla la idea de que este campo sea infinito, con recursos ilimitados y posibilidades variables. Quiero contribuir a este mundo en constante evolución, enfrentando desafíos y resolviendo problemas con soluciones creativas y efectivas.**
-
 - 💬 ¿Quién soy? **Soy un apasionado Desarrollador FullStack con un enfoque especial en el desarrollo Front-End. Mi viaje en la programación ha sido una montaña rusa de emociones y descubrimientos. Cada línea de código escrita es una oportunidad para crear algo nuevo, algo que impacte y haga una diferencia. Desde el diseño hasta la implementación, me encanta sumergirme en cada aspecto del desarrollo de software y crear experiencias significativas para los usuarios.**
+
+- 🤩¿A dónde me dirijo?
+  **Mi mayor deseo es seguir creciendo tanto en el ámbito profesional como académico. La programación es un viaje interminable de aprendizaje y descubrimiento. Me maravilla la idea de que este campo sea infinito, con recursos ilimitados y posibilidades variables. Quiero contribuir a este mundo en constante evolución, enfrentando desafíos y resolviendo problemas con soluciones creativas y efectivas.**
+
+
 
 - 📫 Como contactarme **luisantoniogiaccio@gmail.com**
 
