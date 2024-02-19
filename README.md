@@ -19,7 +19,7 @@
 
 ## - 🧩¿Qué tecnologías uso?
 
-  **Me especializo en una variedad de tecnologías que abarcan el espectro del desarrollo FullStack, con un enfoque especial en el desarrollo Front-End. Mis habilidades incluyen:
+  **Me especializo en una variedad de tecnologías que abarcan el espectro del desarrollo FullStack, con un enfoque especial en el desarrollo Front-End. Mis habilidades incluyen:**
 
 - JavaScript (JS)
 - Node.js
