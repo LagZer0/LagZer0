@@ -10,11 +10,11 @@
 
 
 ## - 📫 Como contactarme 
-**luisantoniogiaccio@gmail.com**
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luisantoniogiaccio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisantoniogiaccio/" height="30" width="40" /></a>
  
-<a href="luisantoniogiaccio@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw16DM001DSnhQWRRJWTqMHM&ust=1708468074374000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiCkde5uIQDFQAAAAAdAAAAABAE)" alt="mi Email" height="30" width="40" /></a>
+<a href="luisantoniogiaccio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="mi Email" height="30" width="40" /></a>
 
 </p>
 
